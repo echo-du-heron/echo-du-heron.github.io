@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>L&#x27;écho du héron</title>
+    <link href="https://echo-du-heron.github.io/feed.xml" rel="self" />
+    <link href="https://echo-du-heron.github.io" />
+    <updated>1970-01-01T01:00:00+01:00</updated>
+    <author>
+        <name>Valentin Bailleul</name>
+    </author>
+    <id>https://echo-du-heron.github.io</id>
+
+</feed>

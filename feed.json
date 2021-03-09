@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "L&#x27;écho du héron",
+    "description": "",
+    "home_page_url": "https://echo-du-heron.github.io",
+    "feed_url": "https://echo-du-heron.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Valentin Bailleul"
+    },
+    "items": [
+    ]
+}
